@@ -1,0 +1,1001 @@
+﻿Siparis_ID,Musteri_ID,Urun_Kategorisi,Fiyat,Adet,Siparis_Tarihi,Sehir,Durum
+1001,M-754,Elektronik,459,3.0,2023-05-06,Ankara,Tamamlandı
+1002,,Kitap,14667,5.0,2023-02-14,Antalya,Beklemede
+1003,M-195,Giyim,3861,5.0,2023-01-14,Antalya,Tamamlandı
+1004,M-818,Spor,6923,2.0,2023-08-18,Antalya,Tamamlandı
+1005,M-106,Giyim,11488,4.0,2023-06-24,i̇zmir,Tamamlandı
+1006,M-881,Kozmetik,1724,1.0,2023-07-14,İstanbul,Tamamlandı
+1007,M-718,Kozmetik,13273,1.0,2023-08-24,Antalya,Tamamlandı
+1008,M-487,Elektronik,9094,3.0,2023-07-05,Antalya,Tamamlandı
+1009,M-146,Kitap,3783,3.0,2023-02-10,Ankara,Tamamlandı
+1010,M-564,Kitap,13716,3.0,2023-03-25,i̇zmir,Tamamlandı
+1011,M-373,Kitap,11249,1.0,29/03/2023,Antalya,Tamamlandı
+1012,M-488,Kozmetik,10535,5.0,2023-04-23,Adana,Tamamlandı
+1013,M-894,Elektronik,-3802,1.0,2023-06-11,Bursa,Tamamlandı
+1014,M-680,Kitap,5205,,2023-09-13,Bursa,Beklemede
+1015,M-242,Giyim,12255,5.0,2023-10-03,İzmir,İptal Edildi
+1016,M-697,Ev Aletleri,-5980,2.0,2023-03-12,Antalya,Beklemede
+1017,M-148,Elektronik,2554,2.0,2023-08-05,Antalya,Tamamlandı
+1018,M-710,Ev Aletleri,8719,3.0,2023-10-11,İstanbul,Tamamlandı
+1019,M-649,Kozmetik,12642,3.0,27/02/2023,İzmir,Beklemede
+1020,M-103,Kitap,14399,3.0,2023-09-14,Ankara,İptal Edildi
+1021,M-991,Kitap,4939,5.0,2023-04-12,Ankara,Tamamlandı
+1022,M-652,Spor,59,,2023-06-15,Bursa,Tamamlandı
+1023,M-471,Kozmetik,-3973,1.0,2023-05-04,Antalya,Tamamlandı
+1024,M-597,Elektronik,12511,5.0,2023-03-06,Ankara,Beklemede
+1025,M-269,Kozmetik,8695,5.0,2023-08-05,Ankara,İptal Edildi
+1026,M-806,Giyim,11730,3.0,2023-07-24,Adana,Tamamlandı
+1027,,Ev Aletleri,2032,2.0,2023-04-26,İstanbul,Tamamlandı
+1028,M-667,Giyim,9691,2.0,2023-01-04,i̇stanbul,Tamamlandı
+1029,M-132,Kozmetik,1210,5.0,2023-05-02,i̇zmir,Beklemede
+1030,M-235,Kitap,14506,5.0,2023-10-23,Bursa,Tamamlandı
+1031,M-926,Ev Aletleri,3169,1.0,2023-02-19,Adana,Beklemede
+1032,M-520,Ev Aletleri,14203,1.0,2023-02-20,İstanbul,Beklemede
+1033,M-919,Elektronik,4123,,2023-04-08,Antalya,Beklemede
+1034,M-287,Kozmetik,-7629,2.0,2023-02-08,Bursa,İptal Edildi
+1035,M-767,Spor,13747,1.0,2023-02-17,Ankara,Tamamlandı
+1036,,Giyim,14216,4.0,2023-01-31,Ankara,Beklemede
+1037,M-499,Kozmetik,12896,4.0,2023-05-27,Bursa,İptal Edildi
+1038,M-598,Giyim,3161,3.0,2023-04-22,İstanbul,İptal Edildi
+1039,M-162,Kitap,5188,1.0,2023-01-26,Antalya,Beklemede
+1040,M-973,Spor,-2629,1.0,2023-09-18,İstanbul,Tamamlandı
+1041,M-169,Kitap,14170,2.0,2023-07-26,i̇stanbul,İptal Edildi
+1042,M-708,Elektronik,10197,1.0,2023-08-03,Adana,İptal Edildi
+1043,M-423,Kozmetik,3396,,2023-05-03,İzmir,Beklemede
+1044,M-760,Kozmetik,7541,3.0,2023-02-07,İstanbul,Beklemede
+1045,M-676,Elektronik,1250,,2023-04-20,Antalya,Tamamlandı
+1046,M-457,Elektronik,14455,2.0,2023-07-09,İzmir,Tamamlandı
+1047,M-656,Kitap,5006,5.0,2023-09-28,İstanbul,İptal Edildi
+1048,M-779,Elektronik,14437,2.0,2023-05-16,İstanbul,Tamamlandı
+1049,M-259,Kozmetik,4666,5.0,2023-04-18,adana,Tamamlandı
+1050,M-749,Kozmetik,8330,4.0,2023-05-09,İstanbul,Tamamlandı
+1051,M-949,Kozmetik,772,1.0,20/06/2023,Ankara,Tamamlandı
+1052,M-552,Spor,-11611,4.0,2023-10-15,İstanbul,Tamamlandı
+1053,M-807,Giyim,8988,,2023-07-09,Antalya,İptal Edildi
+1054,M-230,Elektronik,5100,3.0,2023-01-21,İzmir,Tamamlandı
+1055,M-782,Elektronik,5844,5.0,2023-07-28,Antalya,Tamamlandı
+1056,M-342,Giyim,13155,2.0,2023-07-31,İstanbul,Tamamlandı
+1057,M-440,Ev Aletleri,13193,2.0,2023-05-17,Ankara,Tamamlandı
+1058,M-139,Ev Aletleri,3694,2.0,2023-08-24,İzmir,Tamamlandı
+1059,M-992,Giyim,3702,1.0,2023-04-09,Bursa,Tamamlandı
+1060,M-171,Kozmetik,5803,5.0,2023-07-24,Adana,İptal Edildi
+1061,,Elektronik,14419,3.0,2023-04-02,Antalya,Tamamlandı
+1062,M-710,Ev Aletleri,5713,,2023-08-12,Antalya,İptal Edildi
+1063,M-690,Giyim,4223,1.0,2023-08-12,İstanbul,İptal Edildi
+1064,M-651,Kitap,11837,2.0,2023-07-06,Bursa,Tamamlandı
+1065,M-438,Spor,5193,1.0,2023-06-03,Antalya,Tamamlandı
+1066,M-434,Ev Aletleri,11473,3.0,2023-10-11,Ankara,Tamamlandı
+1067,M-488,Kitap,12307,2.0,2023-10-19,İzmir,Beklemede
+1068,M-100,Kozmetik,4750,2.0,2023-08-09,Antalya,İptal Edildi
+1069,M-576,Ev Aletleri,7294,2.0,2023-09-19,Bursa,Tamamlandı
+1070,M-390,Spor,10926,5.0,2023-06-21,İstanbul,Tamamlandı
+1071,M-330,Giyim,2464,1.0,2023-01-24,Ankara,Beklemede
+1072,M-886,Elektronik,7511,4.0,2023-10-22,Ankara,Beklemede
+1073,M-349,Giyim,10798,1.0,24/02/2023,Bursa,Tamamlandı
+1074,M-812,Spor,7661,1.0,2023-10-13,Ankara,Tamamlandı
+1075,M-920,Ev Aletleri,10987,5.0,2023-10-14,Antalya,Tamamlandı
+1076,M-553,Spor,13403,5.0,2023-08-07,Antalya,Beklemede
+1077,M-861,Ev Aletleri,7423,3.0,2023-05-07,Adana,Tamamlandı
+1078,M-633,Ev Aletleri,10318,2.0,2023-05-21,Bursa,Tamamlandı
+1079,M-340,Kozmetik,5552,3.0,04/10/2023,İstanbul,Tamamlandı
+1080,M-492,Kitap,2553,2.0,2023-02-02,Bursa,Beklemede
+1081,M-577,Ev Aletleri,1070,2.0,2023-08-04,Bursa,İptal Edildi
+1082,M-120,Spor,6282,4.0,2023-01-04,İzmir,Tamamlandı
+1083,M-973,Ev Aletleri,8868,5.0,2023-04-23,Bursa,Tamamlandı
+1084,M-597,Elektronik,6421,3.0,2023-07-27,Adana,Tamamlandı
+1085,M-230,Spor,8801,1.0,2023-07-21,Antalya,İptal Edildi
+1086,M-185,Kitap,7072,2.0,2023-08-25,Ankara,Tamamlandı
+1087,M-435,Giyim,7499,3.0,2023-06-22,Bursa,Tamamlandı
+1088,M-951,Ev Aletleri,-4183,1.0,2023-08-29,İstanbul,İptal Edildi
+1089,M-458,Giyim,10701,1.0,21/01/2023,İstanbul,Tamamlandı
+1090,M-120,Spor,2546,2.0,2023-03-06,Bursa,Tamamlandı
+1091,M-323,Ev Aletleri,11510,3.0,2023-07-08,Ankara,İptal Edildi
+1092,,Kitap,1926,2.0,2023-06-09,İstanbul,İptal Edildi
+1093,M-419,Spor,-11147,4.0,2023-07-23,Adana,Tamamlandı
+1094,M-807,Kitap,4028,1.0,2023-06-04,Adana,İptal Edildi
+1095,M-915,Spor,12872,1.0,2023-06-27,Antalya,Beklemede
+1096,M-170,Spor,10659,,2023-01-07,Bursa,Beklemede
+1097,M-470,Kitap,14657,4.0,2023-03-20,Bursa,Tamamlandı
+1098,M-766,Kozmetik,10141,5.0,2023-09-05,Bursa,Beklemede
+1099,M-706,Kozmetik,5330,2.0,2023-02-14,i̇zmir,Beklemede
+1100,M-575,Spor,10049,4.0,2023-06-22,İstanbul,Beklemede
+1101,M-286,Ev Aletleri,3525,3.0,2023-05-13,İzmir,Tamamlandı
+1102,M-818,Kozmetik,9156,1.0,2023-09-22,ankara,Tamamlandı
+1103,M-516,Ev Aletleri,9146,2.0,2023-09-01,Adana,Beklemede
+1104,M-117,Elektronik,4870,2.0,2023-07-27,Adana,Tamamlandı
+1105,M-695,Kozmetik,7803,5.0,2023-09-29,İzmir,Beklemede
+1106,M-663,Kozmetik,5814,4.0,2023-05-19,i̇zmir,Tamamlandı
+1107,M-838,Giyim,5219,1.0,02/10/2023,Adana,Tamamlandı
+1108,M-856,Ev Aletleri,4580,5.0,2023-09-26,Antalya,Tamamlandı
+1109,,Giyim,4903,2.0,2023-07-04,Ankara,Tamamlandı
+1110,M-646,Giyim,4544,1.0,2023-01-28,Antalya,Tamamlandı
+1111,M-229,Kitap,14278,4.0,2023-02-22,İstanbul,İptal Edildi
+1112,M-590,Ev Aletleri,5632,,2023-01-27,İzmir,Beklemede
+1113,M-166,Ev Aletleri,8106,1.0,23/10/2023,Adana,Tamamlandı
+1114,M-930,Spor,5028,1.0,2023-05-08,İstanbul,İptal Edildi
+1115,M-720,Spor,13005,5.0,2023-04-26,Antalya,Beklemede
+1116,M-553,Kozmetik,14142,5.0,2023-08-08,İzmir,İptal Edildi
+1117,M-724,Kitap,1675,2.0,19/04/2023,İzmir,Tamamlandı
+1118,M-277,Spor,1279,2.0,2023-01-02,Bursa,Beklemede
+1119,M-581,Kozmetik,584,2.0,2023-05-28,Adana,Tamamlandı
+1120,M-564,Elektronik,11312,2.0,2023-05-16,Adana,İptal Edildi
+1121,M-302,Ev Aletleri,1930,5.0,2023-04-26,Adana,Tamamlandı
+1122,M-946,Giyim,1219,1.0,2023-03-26,İzmir,İptal Edildi
+1123,M-682,Kozmetik,7245,1.0,2023-08-28,Adana,Tamamlandı
+1124,,Spor,8897,4.0,2023-08-13,İstanbul,İptal Edildi
+1125,M-542,Kitap,5330,5.0,2023-05-09,i̇stanbul,Tamamlandı
+1126,M-790,Spor,9669,1.0,2023-05-18,Antalya,Tamamlandı
+1127,M-279,Ev Aletleri,8552,4.0,2023-05-23,Ankara,İptal Edildi
+1128,M-933,Ev Aletleri,1544,4.0,2023-06-28,Bursa,Tamamlandı
+1129,M-207,Giyim,5453,4.0,2023-09-11,İzmir,Beklemede
+1130,M-663,Elektronik,7501,,2023-06-11,İzmir,Tamamlandı
+1131,M-891,Ev Aletleri,14220,5.0,2023-01-01,Adana,İptal Edildi
+1132,M-155,Giyim,8544,3.0,2023-09-13,Adana,Beklemede
+1133,M-308,Kozmetik,9048,,2023-05-28,Bursa,Beklemede
+1134,,Spor,13145,2.0,2023-03-23,İzmir,İptal Edildi
+1135,M-517,Elektronik,3731,1.0,2023-08-25,İstanbul,Tamamlandı
+1136,M-833,Kozmetik,8387,3.0,2023-08-01,bursa,Beklemede
+1137,M-664,Giyim,6334,2.0,2023-09-18,Adana,Tamamlandı
+1138,M-382,Ev Aletleri,5618,5.0,2023-05-17,İstanbul,Tamamlandı
+1139,M-957,Spor,9551,4.0,2023-03-18,Bursa,İptal Edildi
+1140,M-440,Spor,12548,5.0,2023-07-13,Bursa,Tamamlandı
+1141,M-814,Giyim,9418,4.0,2023-04-30,Bursa,Tamamlandı
+1142,M-584,Kitap,13344,4.0,2023-07-17,Adana,Tamamlandı
+1143,M-137,Giyim,-8279,5.0,2023-06-19,İstanbul,Beklemede
+1144,M-567,Elektronik,-11886,2.0,2023-07-29,Adana,Tamamlandı
+1145,M-900,Kozmetik,5596,5.0,2023-07-23,Adana,Tamamlandı
+1146,M-972,Kitap,14129,5.0,2023-07-14,İzmir,Beklemede
+1147,M-136,Spor,1171,2.0,2023-05-28,Ankara,Tamamlandı
+1148,M-200,Kitap,11582,1.0,2023-08-16,Ankara,Tamamlandı
+1149,M-147,Kozmetik,13094,1.0,2023-05-31,İzmir,Tamamlandı
+1150,M-350,Spor,-6801,5.0,2023-04-03,Ankara,Tamamlandı
+1151,M-991,Ev Aletleri,10203,2.0,2023-09-12,antalya,Tamamlandı
+1152,M-753,Kozmetik,7579,3.0,2023-01-05,Bursa,Tamamlandı
+1153,M-261,Elektronik,7287,3.0,2023-10-28,İzmir,Beklemede
+1154,M-567,Kozmetik,3313,4.0,2023-09-05,İstanbul,Tamamlandı
+1155,M-467,Spor,4897,3.0,2023-01-12,Adana,Beklemede
+1156,M-679,Kitap,12801,1.0,2023-09-12,İzmir,Tamamlandı
+1157,M-460,Giyim,10480,2.0,2023-05-09,Adana,Tamamlandı
+1158,M-742,Kitap,695,3.0,2023-08-14,İstanbul,İptal Edildi
+1159,M-234,Elektronik,14953,3.0,17/06/2023,Adana,Beklemede
+1160,M-235,Spor,14409,3.0,2023-09-29,Antalya,Tamamlandı
+1161,M-363,Ev Aletleri,13263,3.0,2023-06-23,İstanbul,Beklemede
+1162,M-244,Giyim,14142,4.0,2023-10-13,İzmir,Tamamlandı
+1163,M-114,Kozmetik,8841,1.0,2023-08-21,İzmir,Tamamlandı
+1164,M-942,Kitap,6136,1.0,2023-04-30,Bursa,Tamamlandı
+1165,M-674,Kozmetik,10045,2.0,2023-02-02,Adana,Beklemede
+1166,M-409,Kitap,6739,1.0,2023-03-13,İstanbul,Tamamlandı
+1167,M-604,Elektronik,1642,2.0,2023-10-03,Ankara,Beklemede
+1168,M-786,Kitap,11461,5.0,2023-08-03,Antalya,Tamamlandı
+1169,M-770,Elektronik,13709,4.0,2023-07-28,İzmir,Tamamlandı
+1170,M-322,Ev Aletleri,7335,2.0,2023-07-05,İstanbul,Tamamlandı
+1171,M-760,Kozmetik,1042,4.0,2023-05-22,Ankara,Tamamlandı
+1172,M-943,Ev Aletleri,1551,2.0,2023-01-11,i̇stanbul,Tamamlandı
+1173,M-228,Spor,3412,1.0,2023-10-11,ankara,İptal Edildi
+1174,M-990,Giyim,5433,2.0,2023-01-02,İzmir,Tamamlandı
+1175,M-653,Kozmetik,13132,,2023-02-26,Adana,Tamamlandı
+1176,M-466,Giyim,-9697,3.0,2023-01-09,Ankara,Tamamlandı
+1177,M-859,Ev Aletleri,8669,1.0,2023-02-02,Bursa,Beklemede
+1178,,Spor,1836,4.0,2023-09-15,Ankara,İptal Edildi
+1179,M-902,Kitap,-8593,3.0,2023-08-23,Adana,Tamamlandı
+1180,M-590,Ev Aletleri,-7034,1.0,2023-09-09,Adana,Beklemede
+1181,M-182,Kozmetik,10016,2.0,2023-02-03,Ankara,Tamamlandı
+1182,M-699,Spor,11717,3.0,2023-07-15,Antalya,İptal Edildi
+1183,M-617,Spor,7098,1.0,2023-02-28,Adana,İptal Edildi
+1184,M-320,Ev Aletleri,7448,2.0,2023-07-31,İzmir,Beklemede
+1185,M-847,Elektronik,5170,4.0,2023-06-10,Adana,Tamamlandı
+1186,M-256,Kitap,7820,1.0,2023-02-16,İstanbul,Tamamlandı
+1187,M-862,Kitap,6155,2.0,2023-10-12,İstanbul,İptal Edildi
+1188,M-675,Kozmetik,11027,1.0,2023-07-30,İzmir,Beklemede
+1189,M-838,Elektronik,4762,5.0,2023-06-09,İzmir,Tamamlandı
+1190,M-317,Giyim,10809,4.0,2023-04-25,İstanbul,Tamamlandı
+1191,M-476,Elektronik,12544,3.0,2023-10-21,Ankara,Beklemede
+1192,,Spor,10102,5.0,2023-01-14,Antalya,Tamamlandı
+1193,M-379,Kitap,12541,3.0,23/06/2023,İzmir,Tamamlandı
+1194,M-246,Spor,-10819,4.0,2023-02-05,Ankara,Tamamlandı
+1195,M-643,Giyim,6213,4.0,2023-08-21,İzmir,Tamamlandı
+1196,M-838,Kozmetik,12777,5.0,13/02/2023,İstanbul,Tamamlandı
+1197,M-732,Elektronik,11092,1.0,2023-05-20,Bursa,Beklemede
+1198,M-552,Ev Aletleri,4525,2.0,2023-09-20,İstanbul,Tamamlandı
+1199,,Kitap,11166,5.0,2023-09-07,Antalya,Tamamlandı
+1200,M-504,Spor,947,1.0,2023-04-15,İzmir,Tamamlandı
+1201,M-882,Kozmetik,4792,3.0,2023-03-03,İstanbul,Beklemede
+1202,M-279,Giyim,6279,5.0,2023-04-28,Antalya,İptal Edildi
+1203,M-925,Kozmetik,1230,4.0,2023-01-22,Bursa,Tamamlandı
+1204,M-179,Kozmetik,9483,4.0,2023-10-21,Bursa,Beklemede
+1205,M-514,Elektronik,-5371,2.0,2023-08-24,Adana,Tamamlandı
+1206,M-964,Elektronik,4036,4.0,2023-07-25,Antalya,Tamamlandı
+1207,M-417,Kitap,5612,2.0,2023-06-20,Ankara,Tamamlandı
+1208,M-216,Spor,8405,2.0,2023-06-28,i̇zmir,Tamamlandı
+1209,M-249,Kozmetik,3282,2.0,20/03/2023,Adana,Tamamlandı
+1210,M-891,Kitap,8145,4.0,2023-10-16,Antalya,Beklemede
+1211,M-678,Kitap,10458,5.0,15/06/2023,Adana,Tamamlandı
+1212,M-169,Ev Aletleri,7295,3.0,2023-05-21,Antalya,Tamamlandı
+1213,M-175,Kozmetik,7615,4.0,2023-01-20,İstanbul,Tamamlandı
+1214,M-178,Kitap,14209,1.0,2023-09-17,Bursa,Beklemede
+1215,M-910,Kitap,14728,1.0,2023-08-19,Antalya,Tamamlandı
+1216,M-587,Spor,2521,1.0,2023-08-19,İstanbul,Tamamlandı
+1217,M-186,Spor,10636,2.0,2023-01-21,Ankara,Beklemede
+1218,M-636,Spor,10041,2.0,2023-07-06,İzmir,Tamamlandı
+1219,M-893,Kozmetik,-11173,5.0,2023-01-27,Adana,Tamamlandı
+1220,M-196,Spor,11164,4.0,2023-05-26,İzmir,İptal Edildi
+1221,M-441,Elektronik,9597,,2023-06-29,İzmir,Beklemede
+1222,M-825,Elektronik,5122,5.0,2023-07-12,Adana,Tamamlandı
+1223,M-786,Kitap,13631,5.0,2023-02-17,Adana,Beklemede
+1224,M-118,Kozmetik,5110,2.0,20/04/2023,İzmir,Beklemede
+1225,M-240,Giyim,1314,3.0,2023-02-21,Antalya,İptal Edildi
+1226,M-639,Elektronik,10895,3.0,09/03/2023,Antalya,Beklemede
+1227,,Kitap,12683,5.0,2023-03-26,Adana,Beklemede
+1228,M-473,Kitap,11839,2.0,2023-08-16,Antalya,Tamamlandı
+1229,M-902,Ev Aletleri,3883,5.0,2023-05-03,İzmir,Beklemede
+1230,M-298,Kozmetik,11163,5.0,2023-08-14,Bursa,Tamamlandı
+1231,M-614,Spor,6909,2.0,2023-04-13,Antalya,Tamamlandı
+1232,M-153,Kitap,7923,3.0,2023-10-11,İstanbul,İptal Edildi
+1233,M-391,Elektronik,12552,,2023-05-20,Bursa,İptal Edildi
+1234,M-547,Elektronik,14967,2.0,2023-08-19,İzmir,Tamamlandı
+1235,M-505,Spor,6176,2.0,2023-07-17,i̇stanbul,Tamamlandı
+1236,M-426,Elektronik,13799,3.0,2023-03-16,Ankara,Tamamlandı
+1237,,Ev Aletleri,11454,2.0,2023-08-29,Bursa,İptal Edildi
+1238,M-181,Elektronik,4243,2.0,2023-03-18,Antalya,İptal Edildi
+1239,M-213,Kozmetik,3943,3.0,2023-03-04,İstanbul,Tamamlandı
+1240,M-912,Spor,7539,1.0,2023-02-26,Bursa,İptal Edildi
+1241,,Spor,9471,2.0,2023-03-15,İzmir,Beklemede
+1242,M-461,Giyim,9399,4.0,2023-04-06,Adana,Tamamlandı
+1243,,Elektronik,8668,5.0,2023-09-17,Antalya,İptal Edildi
+1244,M-994,Ev Aletleri,763,4.0,2023-07-11,İzmir,Tamamlandı
+1245,M-169,Kozmetik,4000,,2023-10-25,Adana,Tamamlandı
+1246,M-460,Spor,5596,2.0,2023-08-26,Adana,Beklemede
+1247,,Giyim,1083,4.0,2023-01-19,İzmir,Tamamlandı
+1248,M-304,Elektronik,5220,3.0,2023-09-21,Bursa,İptal Edildi
+1249,M-137,Kitap,3181,3.0,2023-07-02,İstanbul,Tamamlandı
+1250,M-918,Kozmetik,7209,4.0,2023-08-14,Bursa,Tamamlandı
+1251,M-608,Kitap,8201,3.0,2023-09-23,İzmir,Tamamlandı
+1252,M-180,Ev Aletleri,9920,,2023-10-07,İzmir,Tamamlandı
+1253,M-435,Kitap,4893,3.0,17/08/2023,Antalya,Beklemede
+1254,M-554,Kozmetik,7375,1.0,2023-06-30,Antalya,Beklemede
+1255,M-910,Elektronik,1279,4.0,2023-07-06,Antalya,Tamamlandı
+1256,M-246,Spor,11159,4.0,2023-01-18,ankara,Tamamlandı
+1257,M-760,Kozmetik,5983,4.0,18/10/2023,İstanbul,İptal Edildi
+1258,M-560,Kozmetik,6145,4.0,2023-02-09,Antalya,Tamamlandı
+1259,M-507,Kozmetik,10692,3.0,2023-05-08,İstanbul,Tamamlandı
+1260,M-611,Spor,6390,5.0,2023-03-02,İzmir,Tamamlandı
+1261,M-319,Spor,4728,4.0,2023-04-13,İstanbul,Tamamlandı
+1262,M-562,Giyim,14773,4.0,2023-02-14,Adana,Tamamlandı
+1263,M-826,Elektronik,9061,5.0,2023-05-29,İzmir,Tamamlandı
+1264,M-817,Kitap,2902,3.0,2023-09-18,Ankara,Tamamlandı
+1265,M-911,Giyim,3928,4.0,2023-01-14,İzmir,İptal Edildi
+1266,M-578,Spor,2176,5.0,2023-02-14,İstanbul,Tamamlandı
+1267,M-834,Kitap,-7892,5.0,2023-07-30,Bursa,İptal Edildi
+1268,M-424,Kitap,1265,4.0,2023-08-27,Adana,İptal Edildi
+1269,M-999,Spor,10532,5.0,2023-04-04,Ankara,Beklemede
+1270,M-989,Elektronik,13671,1.0,23/09/2023,Ankara,Tamamlandı
+1271,M-430,Kitap,3744,3.0,2023-09-23,İzmir,Tamamlandı
+1272,M-750,Spor,-4546,2.0,2023-06-05,Antalya,İptal Edildi
+1273,M-756,Giyim,9746,5.0,2023-03-20,Ankara,İptal Edildi
+1274,,Kozmetik,13854,5.0,2023-01-22,İstanbul,Tamamlandı
+1275,M-756,Spor,4386,2.0,2023-10-20,Bursa,İptal Edildi
+1276,M-609,Kitap,8988,3.0,2023-06-04,Bursa,Tamamlandı
+1277,M-801,Ev Aletleri,4923,4.0,07/02/2023,Adana,Tamamlandı
+1278,M-525,Ev Aletleri,7659,2.0,2023-06-24,Antalya,Tamamlandı
+1279,M-835,Kozmetik,12079,3.0,2023-07-24,Ankara,Tamamlandı
+1280,M-208,Kozmetik,4010,4.0,2023-03-04,i̇zmir,Beklemede
+1281,M-199,Elektronik,4804,4.0,2023-08-03,Ankara,Tamamlandı
+1282,M-691,Kitap,5173,2.0,2023-03-23,Bursa,İptal Edildi
+1283,M-415,Ev Aletleri,429,1.0,2023-07-21,Antalya,Beklemede
+1284,M-320,Spor,5831,1.0,2023-01-26,İzmir,Beklemede
+1285,M-963,Kitap,11068,4.0,2023-05-27,Antalya,Tamamlandı
+1286,,Giyim,14508,3.0,2023-07-07,Bursa,Tamamlandı
+1287,M-152,Spor,-9254,2.0,2023-07-05,Antalya,Tamamlandı
+1288,M-616,Ev Aletleri,12573,,2023-05-24,Antalya,İptal Edildi
+1289,M-199,Ev Aletleri,6164,3.0,13/10/2023,İzmir,Tamamlandı
+1290,M-621,Ev Aletleri,8243,1.0,2023-01-24,İstanbul,Tamamlandı
+1291,M-923,Ev Aletleri,8558,,2023-03-18,Antalya,İptal Edildi
+1292,M-727,Kozmetik,2712,4.0,2023-06-03,Antalya,Tamamlandı
+1293,M-621,Spor,8075,5.0,2023-06-03,Bursa,Tamamlandı
+1294,M-789,Elektronik,6874,5.0,2023-06-07,Adana,Tamamlandı
+1295,M-371,Kitap,12877,5.0,2023-10-23,Ankara,Tamamlandı
+1296,,Spor,10355,5.0,2023-07-14,Ankara,Tamamlandı
+1297,M-817,Elektronik,3175,1.0,14/08/2023,İzmir,Beklemede
+1298,M-807,Giyim,6773,5.0,2023-08-30,Adana,Tamamlandı
+1299,M-631,Giyim,9239,3.0,2023-09-02,Antalya,Beklemede
+1300,M-277,Ev Aletleri,14994,5.0,2023-06-25,Antalya,Tamamlandı
+1301,M-988,Kitap,11203,3.0,2023-09-05,Ankara,Tamamlandı
+1302,M-405,Giyim,4926,3.0,2023-04-17,Adana,Beklemede
+1303,M-457,Spor,13081,3.0,2023-05-28,İstanbul,İptal Edildi
+1304,M-488,Ev Aletleri,13458,3.0,2023-03-16,İzmir,Tamamlandı
+1305,M-831,Elektronik,5724,4.0,2023-05-12,adana,Beklemede
+1306,M-947,Spor,4492,5.0,2023-05-20,Ankara,Tamamlandı
+1307,M-700,Giyim,-4022,1.0,2023-09-29,Ankara,Tamamlandı
+1308,,Kozmetik,11803,4.0,2023-02-21,Adana,Tamamlandı
+1309,M-663,Giyim,6716,4.0,2023-09-02,Adana,Tamamlandı
+1310,M-394,Kozmetik,4726,1.0,2023-02-15,adana,İptal Edildi
+1311,M-856,Kitap,13981,1.0,2023-03-31,Bursa,Tamamlandı
+1312,M-137,Ev Aletleri,12959,4.0,2023-04-06,Adana,Tamamlandı
+1313,M-109,Kozmetik,9355,5.0,2023-02-24,İzmir,Tamamlandı
+1314,M-756,Spor,8640,4.0,2023-03-10,Antalya,Beklemede
+1315,M-928,Elektronik,5467,2.0,2023-08-23,Adana,Tamamlandı
+1316,M-114,Kitap,5573,3.0,18/10/2023,Adana,Tamamlandı
+1317,M-976,Kitap,-14747,4.0,2023-08-07,Antalya,Tamamlandı
+1318,,Elektronik,3077,2.0,2023-09-02,İzmir,Tamamlandı
+1319,M-492,Giyim,7369,3.0,2023-06-18,İzmir,İptal Edildi
+1320,M-111,Kozmetik,10759,3.0,2023-05-01,İstanbul,Tamamlandı
+1321,M-263,Ev Aletleri,11290,5.0,2023-06-09,Adana,Tamamlandı
+1322,M-402,Kozmetik,10120,2.0,23/04/2023,Ankara,Beklemede
+1323,M-865,Spor,6171,4.0,2023-10-09,Bursa,İptal Edildi
+1324,M-945,Giyim,12532,2.0,2023-02-11,Antalya,Beklemede
+1325,M-470,Elektronik,9293,1.0,2023-02-01,antalya,İptal Edildi
+1326,M-649,Giyim,2745,3.0,2023-09-24,Bursa,Tamamlandı
+1327,M-834,Spor,8058,1.0,2023-09-19,Bursa,Tamamlandı
+1328,M-625,Ev Aletleri,7534,5.0,2023-01-30,Antalya,Beklemede
+1329,M-415,Kitap,406,4.0,2023-05-11,İstanbul,Tamamlandı
+1330,M-146,Ev Aletleri,5694,1.0,2023-10-05,İstanbul,Tamamlandı
+1331,M-583,Elektronik,4753,4.0,2023-04-03,Ankara,Beklemede
+1332,M-491,Ev Aletleri,14297,,2023-07-12,İstanbul,İptal Edildi
+1333,M-980,Kozmetik,1993,,2023-10-03,Bursa,İptal Edildi
+1334,M-328,Elektronik,12439,1.0,2023-06-02,Bursa,İptal Edildi
+1335,M-488,Giyim,4105,4.0,27/06/2023,Ankara,Tamamlandı
+1336,M-996,Kitap,12591,1.0,2023-01-17,Adana,Beklemede
+1337,M-116,Giyim,3426,1.0,2023-02-21,Antalya,Tamamlandı
+1338,M-788,Kitap,14340,1.0,2023-05-06,Adana,Tamamlandı
+1339,M-339,Spor,3609,1.0,2023-03-13,antalya,Tamamlandı
+1340,M-849,Spor,5274,5.0,2023-06-14,Ankara,Tamamlandı
+1341,M-776,Spor,3671,4.0,2023-06-03,İzmir,Tamamlandı
+1342,,Kitap,14985,2.0,2023-08-07,Antalya,Beklemede
+1343,M-452,Kitap,11049,4.0,2023-09-26,İzmir,Beklemede
+1344,M-407,Ev Aletleri,3062,5.0,2023-08-31,Ankara,Tamamlandı
+1345,M-824,Giyim,13251,4.0,2023-01-30,Antalya,Beklemede
+1346,M-670,Spor,2246,4.0,2023-05-05,İzmir,Tamamlandı
+1347,M-180,Ev Aletleri,-13929,3.0,2023-02-17,Antalya,Tamamlandı
+1348,M-486,Kitap,9961,5.0,2023-01-21,İstanbul,Tamamlandı
+1349,M-701,Kitap,11051,5.0,2023-04-22,Bursa,Tamamlandı
+1350,M-440,Kozmetik,14942,1.0,2023-04-19,Ankara,Tamamlandı
+1351,M-872,Ev Aletleri,4024,5.0,2023-04-15,Bursa,Tamamlandı
+1352,M-894,Kozmetik,6286,4.0,2023-10-01,Adana,Tamamlandı
+1353,M-468,Spor,14513,4.0,2023-08-27,İstanbul,Beklemede
+1354,M-427,Giyim,6123,3.0,2023-07-31,İstanbul,İptal Edildi
+1355,M-859,Giyim,315,3.0,2023-10-11,Antalya,İptal Edildi
+1356,M-402,Giyim,3264,3.0,2023-04-28,Bursa,İptal Edildi
+1357,M-611,Spor,10775,3.0,2023-05-12,Bursa,Beklemede
+1358,M-850,Kozmetik,2823,2.0,2023-10-07,Bursa,Tamamlandı
+1359,M-655,Kitap,1012,5.0,2023-01-18,İstanbul,Tamamlandı
+1360,,Giyim,13854,2.0,2023-02-04,Adana,Tamamlandı
+1361,,Ev Aletleri,6164,1.0,2023-09-05,Adana,Beklemede
+1362,M-644,Spor,6789,1.0,2023-01-09,Antalya,Tamamlandı
+1363,M-393,Elektronik,8278,4.0,2023-04-02,İstanbul,Tamamlandı
+1364,M-346,Giyim,10204,5.0,2023-05-10,İzmir,Tamamlandı
+1365,M-180,Kozmetik,6702,4.0,2023-10-17,Ankara,Tamamlandı
+1366,M-947,Elektronik,10760,1.0,2023-02-17,Bursa,Beklemede
+1367,M-587,Elektronik,10482,1.0,2023-03-29,İstanbul,Beklemede
+1368,M-760,Kozmetik,9320,1.0,2023-09-28,i̇stanbul,Tamamlandı
+1369,M-988,Kitap,14591,5.0,2023-09-01,İzmir,Tamamlandı
+1370,M-800,Kozmetik,14784,5.0,16/10/2023,Adana,Tamamlandı
+1371,M-970,Kozmetik,306,2.0,2023-10-28,Ankara,Beklemede
+1372,M-406,Giyim,9289,2.0,2023-10-18,Bursa,İptal Edildi
+1373,M-873,Kitap,-2342,1.0,2023-09-14,Adana,Tamamlandı
+1374,M-547,Giyim,13790,1.0,2023-06-24,Antalya,İptal Edildi
+1375,M-506,Kozmetik,535,3.0,2023-08-19,Bursa,Tamamlandı
+1376,M-484,Ev Aletleri,3093,5.0,2023-07-14,İstanbul,İptal Edildi
+1377,M-352,Kitap,1254,1.0,2023-05-18,Ankara,Beklemede
+1378,M-749,Giyim,-12168,4.0,2023-06-12,İzmir,Tamamlandı
+1379,M-415,Ev Aletleri,5946,3.0,22/02/2023,Ankara,Tamamlandı
+1380,M-559,Spor,-9138,5.0,2023-07-28,İstanbul,Tamamlandı
+1381,M-667,Elektronik,9830,5.0,2023-06-16,Bursa,Tamamlandı
+1382,M-497,Elektronik,11925,5.0,05/05/2023,Antalya,İptal Edildi
+1383,M-489,Giyim,2324,,2023-06-04,İzmir,Beklemede
+1384,M-271,Ev Aletleri,4571,4.0,2023-06-03,Bursa,Tamamlandı
+1385,M-352,Kitap,10290,,2023-04-11,Bursa,Tamamlandı
+1386,M-106,Ev Aletleri,5493,5.0,2023-07-14,İzmir,Beklemede
+1387,M-935,Kitap,9788,2.0,2023-06-03,İzmir,İptal Edildi
+1388,M-305,Ev Aletleri,5197,2.0,2023-07-23,İzmir,Tamamlandı
+1389,M-748,Ev Aletleri,9485,2.0,2023-06-16,Bursa,Tamamlandı
+1390,M-502,Kozmetik,1915,5.0,13/04/2023,Antalya,İptal Edildi
+1391,M-886,Spor,490,4.0,2023-04-18,Bursa,Tamamlandı
+1392,M-170,Ev Aletleri,11076,4.0,2023-03-13,adana,Tamamlandı
+1393,M-774,Giyim,11768,4.0,2023-07-13,İstanbul,Beklemede
+1394,M-590,Spor,6616,5.0,2023-09-17,Adana,Beklemede
+1395,M-909,Kozmetik,11545,5.0,2023-02-13,İstanbul,Tamamlandı
+1396,M-463,Giyim,10650,5.0,2023-01-23,Antalya,Beklemede
+1397,M-439,Ev Aletleri,1785,1.0,2023-02-20,İzmir,Tamamlandı
+1398,M-631,Spor,9561,5.0,2023-04-24,Bursa,Tamamlandı
+1399,M-890,Kitap,9693,5.0,2023-03-19,İzmir,Tamamlandı
+1400,M-402,Ev Aletleri,1456,1.0,2023-03-14,İzmir,Tamamlandı
+1401,M-903,Giyim,8587,4.0,2023-06-28,Bursa,Tamamlandı
+1402,,Ev Aletleri,5275,1.0,2023-06-03,İstanbul,Tamamlandı
+1403,M-451,Kitap,1841,2.0,2023-05-05,Antalya,Tamamlandı
+1404,M-438,Spor,7035,4.0,29/04/2023,Bursa,Tamamlandı
+1405,M-773,Ev Aletleri,6531,1.0,2023-04-12,Bursa,İptal Edildi
+1406,M-104,Kitap,3569,2.0,2023-05-23,Adana,Tamamlandı
+1407,M-918,Spor,3113,,2023-06-16,Ankara,Beklemede
+1408,M-786,Ev Aletleri,8696,3.0,2023-07-18,Antalya,Beklemede
+1409,M-456,Kozmetik,13902,4.0,2023-03-30,Adana,Tamamlandı
+1410,M-704,Elektronik,11061,2.0,2023-06-10,İstanbul,Tamamlandı
+1411,M-287,Kozmetik,11411,2.0,2023-09-19,Bursa,Beklemede
+1412,M-688,Ev Aletleri,6981,2.0,2023-09-07,Adana,İptal Edildi
+1413,M-760,Giyim,9141,2.0,08/09/2023,İzmir,Tamamlandı
+1414,M-962,Ev Aletleri,10198,,2023-07-03,İstanbul,Beklemede
+1415,M-934,Ev Aletleri,9250,5.0,2023-09-11,Bursa,Beklemede
+1416,M-960,Ev Aletleri,8056,2.0,2023-02-12,Antalya,Tamamlandı
+1417,M-325,Kozmetik,585,3.0,26/04/2023,Antalya,Tamamlandı
+1418,M-568,Spor,12215,4.0,2023-10-09,Antalya,Tamamlandı
+1419,M-374,Spor,13538,3.0,2023-10-05,İstanbul,Beklemede
+1420,M-535,Elektronik,12108,2.0,2023-06-02,İstanbul,Beklemede
+1421,M-982,Elektronik,7243,1.0,2023-05-02,Ankara,İptal Edildi
+1422,M-981,Kitap,10048,4.0,2023-03-26,Antalya,Tamamlandı
+1423,M-933,Giyim,13246,1.0,2023-10-19,İzmir,İptal Edildi
+1424,M-651,Giyim,5352,3.0,2023-05-29,Antalya,Tamamlandı
+1425,M-626,Kitap,13405,1.0,2023-03-11,Bursa,Tamamlandı
+1426,M-987,Kitap,2128,2.0,2023-05-08,Ankara,Tamamlandı
+1427,M-879,Kitap,6484,4.0,2023-03-14,Antalya,Tamamlandı
+1428,M-484,Ev Aletleri,1287,1.0,2023-07-26,Antalya,Tamamlandı
+1429,M-998,Kozmetik,7499,4.0,2023-06-17,Antalya,Tamamlandı
+1430,M-967,Kitap,1576,4.0,2023-07-03,İstanbul,İptal Edildi
+1431,M-539,Giyim,8155,3.0,2023-06-15,İzmir,Tamamlandı
+1432,,Spor,14016,4.0,2023-06-25,Adana,Tamamlandı
+1433,,Ev Aletleri,316,1.0,2023-03-22,Bursa,Beklemede
+1434,M-538,Giyim,-11331,2.0,2023-06-04,Ankara,Tamamlandı
+1435,M-469,Kozmetik,1400,3.0,2023-03-26,İstanbul,Beklemede
+1436,M-843,Kitap,12423,2.0,2023-08-08,Adana,Tamamlandı
+1437,M-101,Giyim,7862,1.0,2023-03-09,Antalya,Tamamlandı
+1438,M-555,Elektronik,182,3.0,2023-03-03,Bursa,Tamamlandı
+1439,M-334,Ev Aletleri,1513,1.0,2023-02-22,İzmir,Tamamlandı
+1440,M-240,Ev Aletleri,12722,2.0,2023-03-15,İstanbul,İptal Edildi
+1441,M-724,Kitap,2738,4.0,2023-06-29,Adana,Tamamlandı
+1442,M-255,Ev Aletleri,10143,,2023-04-22,İstanbul,Tamamlandı
+1443,M-226,Spor,12010,4.0,2023-06-29,Bursa,Tamamlandı
+1444,M-353,Kozmetik,10611,1.0,2023-05-08,Antalya,İptal Edildi
+1445,M-722,Kozmetik,12812,1.0,2023-06-04,Ankara,İptal Edildi
+1446,M-293,Kitap,6468,3.0,2023-01-28,Ankara,Beklemede
+1447,M-346,Ev Aletleri,10504,5.0,2023-02-06,Antalya,Tamamlandı
+1448,M-424,Giyim,6387,5.0,2023-08-04,İzmir,İptal Edildi
+1449,,Ev Aletleri,12671,1.0,2023-01-09,Antalya,Tamamlandı
+1450,M-320,Elektronik,1040,4.0,2023-09-17,İzmir,İptal Edildi
+1451,M-533,Kitap,6640,1.0,02/10/2023,Antalya,İptal Edildi
+1452,M-185,Kozmetik,1344,5.0,2023-04-15,Ankara,İptal Edildi
+1453,M-700,Kitap,12554,1.0,2023-06-08,Adana,Beklemede
+1454,M-966,Giyim,998,2.0,2023-02-14,Bursa,Tamamlandı
+1455,M-723,Elektronik,5117,2.0,2023-03-03,İstanbul,Tamamlandı
+1456,M-267,Ev Aletleri,5730,5.0,22/09/2023,Adana,Tamamlandı
+1457,M-229,Kitap,12847,3.0,2023-03-02,İstanbul,Tamamlandı
+1458,M-378,Spor,1096,3.0,2023-10-23,Adana,Tamamlandı
+1459,M-623,Kozmetik,958,4.0,18/10/2023,Ankara,Tamamlandı
+1460,,Elektronik,14701,5.0,2023-03-01,Ankara,İptal Edildi
+1461,M-979,Elektronik,4056,1.0,2023-08-30,İzmir,Beklemede
+1462,M-283,Elektronik,9108,4.0,2023-04-25,İzmir,Tamamlandı
+1463,M-837,Kozmetik,4494,1.0,2023-10-20,İzmir,Tamamlandı
+1464,M-153,Giyim,3706,5.0,2023-01-24,Bursa,Tamamlandı
+1465,M-986,Kozmetik,12723,3.0,2023-06-17,İstanbul,İptal Edildi
+1466,M-477,Giyim,4827,5.0,2023-06-05,adana,İptal Edildi
+1467,,Spor,8133,2.0,2023-10-07,Ankara,Tamamlandı
+1468,M-519,Elektronik,3867,5.0,2023-06-27,Adana,Tamamlandı
+1469,M-101,Kitap,6214,3.0,2023-02-23,Ankara,İptal Edildi
+1470,M-529,Ev Aletleri,1031,2.0,2023-05-24,İstanbul,Tamamlandı
+1471,M-965,Spor,6817,3.0,2023-08-23,Adana,Tamamlandı
+1472,M-617,Giyim,-10490,4.0,2023-02-08,Antalya,İptal Edildi
+1473,M-778,Giyim,3929,3.0,2023-05-14,İzmir,Beklemede
+1474,M-853,Kozmetik,5261,4.0,2023-05-20,Ankara,Tamamlandı
+1475,M-239,Spor,1835,2.0,2023-02-24,Ankara,Beklemede
+1476,M-516,Elektronik,8830,3.0,2023-04-17,Bursa,Tamamlandı
+1477,,Elektronik,1531,2.0,2023-06-05,Adana,İptal Edildi
+1478,M-955,Kozmetik,2480,1.0,2023-05-08,İzmir,Beklemede
+1479,M-793,Kozmetik,4312,2.0,2023-01-16,Bursa,Beklemede
+1480,,Giyim,1601,4.0,2023-02-22,Ankara,Tamamlandı
+1481,M-950,Giyim,2191,2.0,2023-07-25,İzmir,Tamamlandı
+1482,M-365,Elektronik,407,1.0,2023-04-12,Adana,Beklemede
+1483,M-194,Kozmetik,2057,1.0,2023-08-25,İstanbul,Tamamlandı
+1484,M-543,Kitap,6521,4.0,16/01/2023,Bursa,Beklemede
+1485,M-319,Giyim,4555,3.0,2023-08-17,Ankara,Tamamlandı
+1486,M-731,Giyim,10655,3.0,2023-09-13,Bursa,İptal Edildi
+1487,M-189,Kozmetik,6325,2.0,2023-08-03,ankara,İptal Edildi
+1488,M-921,Spor,13072,1.0,2023-07-15,Adana,Tamamlandı
+1489,M-900,Ev Aletleri,5686,5.0,2023-09-15,İzmir,Beklemede
+1490,M-126,Kozmetik,9833,2.0,2023-01-16,İzmir,Tamamlandı
+1491,M-583,Spor,5906,5.0,2023-04-30,ankara,Tamamlandı
+1492,M-346,Kozmetik,8793,1.0,2023-04-23,Antalya,Beklemede
+1493,M-959,Giyim,2935,2.0,2023-06-12,Adana,Tamamlandı
+1494,M-128,Kitap,11527,3.0,2023-10-18,Antalya,Tamamlandı
+1495,M-292,Ev Aletleri,-8932,3.0,2023-03-31,Bursa,Tamamlandı
+1496,M-338,Spor,3634,1.0,2023-09-27,Bursa,Tamamlandı
+1497,M-728,Giyim,13262,2.0,2023-06-24,Adana,Tamamlandı
+1498,M-964,Kozmetik,1025,1.0,2023-03-17,Antalya,Tamamlandı
+1499,M-966,Spor,14151,3.0,2023-02-07,İzmir,Beklemede
+1500,M-444,Kozmetik,5335,2.0,2023-03-22,Adana,Beklemede
+1501,M-598,Kitap,5248,2.0,2023-10-15,Adana,İptal Edildi
+1502,M-328,Kitap,9699,,2023-07-13,İzmir,Tamamlandı
+1503,M-846,Elektronik,11551,5.0,20/07/2023,Antalya,Tamamlandı
+1504,M-425,Spor,3669,5.0,2023-02-23,Bursa,Tamamlandı
+1505,M-179,Giyim,5732,3.0,2023-03-27,Adana,Tamamlandı
+1506,M-786,Kitap,11998,3.0,2023-08-17,i̇stanbul,Tamamlandı
+1507,,Elektronik,5792,3.0,2023-02-25,Adana,Tamamlandı
+1508,M-548,Kitap,6925,2.0,2023-07-31,Bursa,Beklemede
+1509,M-484,Elektronik,13629,4.0,23/10/2023,Adana,Tamamlandı
+1510,M-175,Elektronik,-4881,1.0,2023-06-13,İzmir,Tamamlandı
+1511,M-274,Ev Aletleri,2686,1.0,2023-10-08,İstanbul,Tamamlandı
+1512,M-728,Ev Aletleri,11592,1.0,2023-08-09,Adana,Tamamlandı
+1513,M-544,Giyim,927,1.0,2023-06-19,Ankara,Tamamlandı
+1514,M-667,Kitap,12009,5.0,2023-05-16,Adana,Tamamlandı
+1515,M-198,Elektronik,-6487,5.0,2023-10-09,Bursa,Tamamlandı
+1516,,Ev Aletleri,1485,3.0,2023-09-03,Ankara,Tamamlandı
+1517,M-274,Kitap,4831,1.0,2023-08-31,İstanbul,Tamamlandı
+1518,M-582,Ev Aletleri,14711,3.0,2023-02-16,Adana,İptal Edildi
+1519,M-479,Ev Aletleri,6102,2.0,2023-08-17,İstanbul,Tamamlandı
+1520,M-369,Giyim,13764,3.0,2023-10-16,İstanbul,Tamamlandı
+1521,M-783,Elektronik,1454,3.0,2023-10-05,bursa,İptal Edildi
+1522,M-162,Ev Aletleri,13458,5.0,2023-08-03,Antalya,Beklemede
+1523,M-341,Ev Aletleri,4946,1.0,2023-07-22,Adana,Tamamlandı
+1524,M-629,Spor,11150,5.0,17/03/2023,İstanbul,Beklemede
+1525,M-271,Giyim,-13295,2.0,2023-03-06,İstanbul,Beklemede
+1526,M-799,Ev Aletleri,-3358,2.0,2023-05-13,İzmir,Tamamlandı
+1527,M-669,Ev Aletleri,9094,3.0,2023-05-22,Antalya,Beklemede
+1528,M-112,Kitap,10258,5.0,2023-09-25,Bursa,Tamamlandı
+1529,M-251,Spor,9682,5.0,2023-02-21,İstanbul,İptal Edildi
+1530,M-904,Kozmetik,14262,5.0,2023-06-26,Bursa,Tamamlandı
+1531,M-597,Spor,10027,4.0,2023-01-20,Ankara,Tamamlandı
+1532,M-733,Spor,11204,4.0,2023-01-20,Bursa,Tamamlandı
+1533,M-150,Kitap,7835,3.0,2023-07-10,İstanbul,Tamamlandı
+1534,M-410,Kozmetik,4643,4.0,2023-02-20,Ankara,Tamamlandı
+1535,M-861,Ev Aletleri,12731,3.0,2023-05-18,Adana,Beklemede
+1536,M-191,Giyim,7287,2.0,2023-07-28,Adana,Beklemede
+1537,M-988,Kozmetik,13501,1.0,2023-09-21,Ankara,Tamamlandı
+1538,M-618,Ev Aletleri,2272,5.0,19/10/2023,İstanbul,Tamamlandı
+1539,M-952,Giyim,-13763,1.0,2023-05-08,İstanbul,Beklemede
+1540,M-469,Kitap,3312,3.0,2023-07-08,Bursa,İptal Edildi
+1541,M-226,Kitap,550,2.0,2023-07-10,Bursa,İptal Edildi
+1542,M-991,Ev Aletleri,9665,5.0,2023-06-29,İzmir,Tamamlandı
+1543,,Kitap,13662,1.0,2023-05-26,İstanbul,Beklemede
+1544,M-974,Spor,12826,2.0,2023-04-24,Adana,Tamamlandı
+1545,M-375,Kitap,6759,5.0,2023-01-11,Adana,Tamamlandı
+1546,M-235,Kitap,2887,5.0,2023-01-05,Ankara,Tamamlandı
+1547,M-412,Kitap,11672,3.0,2023-08-05,Bursa,Tamamlandı
+1548,,Ev Aletleri,5000,5.0,2023-07-23,Antalya,Tamamlandı
+1549,M-778,Kozmetik,9248,5.0,2023-05-25,İzmir,Tamamlandı
+1550,M-444,Kozmetik,10545,3.0,22/05/2023,İzmir,Tamamlandı
+1551,M-629,Giyim,14790,1.0,2023-07-26,Adana,Tamamlandı
+1552,M-838,Elektronik,10788,4.0,2023-06-01,İzmir,Beklemede
+1553,M-854,Elektronik,9602,5.0,2023-04-08,İzmir,Tamamlandı
+1554,M-753,Ev Aletleri,14902,3.0,2023-09-17,İzmir,Tamamlandı
+1555,M-997,Spor,3017,3.0,2023-02-19,Bursa,Tamamlandı
+1556,M-842,Spor,12549,2.0,2023-06-21,adana,Tamamlandı
+1557,M-328,Kitap,14327,3.0,2023-08-04,İzmir,Tamamlandı
+1558,M-401,Ev Aletleri,13996,1.0,2023-08-29,İstanbul,İptal Edildi
+1559,M-735,Elektronik,7786,2.0,2023-09-14,İstanbul,Beklemede
+1560,M-523,Elektronik,14317,2.0,2023-03-12,Ankara,Tamamlandı
+1561,M-683,Ev Aletleri,2396,3.0,2023-04-03,İstanbul,Beklemede
+1562,M-281,Kozmetik,10445,1.0,2023-01-03,bursa,Tamamlandı
+1563,M-892,Giyim,9491,2.0,2023-09-08,İstanbul,Tamamlandı
+1564,,Ev Aletleri,6659,4.0,2023-09-02,Bursa,Tamamlandı
+1565,,Kitap,6162,1.0,2023-06-14,Antalya,Tamamlandı
+1566,M-104,Kitap,12069,2.0,2023-04-26,Adana,Tamamlandı
+1567,M-205,Ev Aletleri,8296,5.0,2023-06-06,Ankara,Tamamlandı
+1568,M-405,Kozmetik,7519,5.0,2023-09-26,İzmir,Beklemede
+1569,M-237,Kozmetik,14818,4.0,2023-07-03,Ankara,Tamamlandı
+1570,M-931,Ev Aletleri,363,2.0,2023-04-25,adana,Tamamlandı
+1571,M-122,Spor,8317,2.0,2023-03-05,İzmir,Tamamlandı
+1572,M-755,Kozmetik,12686,5.0,2023-01-25,Antalya,Tamamlandı
+1573,M-769,Elektronik,840,,2023-08-02,Bursa,Beklemede
+1574,M-358,Ev Aletleri,11549,2.0,2023-04-16,Adana,Tamamlandı
+1575,M-777,Elektronik,10904,5.0,2023-05-19,Antalya,İptal Edildi
+1576,M-528,Elektronik,8431,5.0,2023-03-02,İzmir,Tamamlandı
+1577,M-609,Giyim,10027,2.0,2023-05-15,Antalya,Tamamlandı
+1578,M-519,Kozmetik,2677,1.0,2023-10-08,Bursa,Tamamlandı
+1579,M-592,Kozmetik,3892,1.0,2023-01-07,Adana,Tamamlandı
+1580,M-955,Spor,-11011,4.0,2023-03-18,İstanbul,İptal Edildi
+1581,M-840,Elektronik,14873,3.0,2023-04-29,Bursa,Tamamlandı
+1582,M-151,Elektronik,13373,2.0,2023-01-21,İzmir,Tamamlandı
+1583,M-420,Ev Aletleri,12150,1.0,2023-02-18,İstanbul,Tamamlandı
+1584,M-779,Kitap,2843,3.0,2023-07-03,Bursa,İptal Edildi
+1585,M-850,Elektronik,6155,3.0,2023-04-04,İstanbul,Beklemede
+1586,M-567,Kozmetik,13742,,2023-09-02,Bursa,Tamamlandı
+1587,M-812,Kitap,1010,2.0,2023-02-23,Bursa,İptal Edildi
+1588,,Kitap,7228,2.0,2023-07-14,İzmir,İptal Edildi
+1589,M-800,Kitap,14660,2.0,2023-09-05,Bursa,Tamamlandı
+1590,M-551,Elektronik,1087,3.0,2023-06-10,İstanbul,İptal Edildi
+1591,M-690,Kitap,9307,2.0,2023-06-23,Antalya,İptal Edildi
+1592,M-733,Elektronik,7141,,2023-09-04,İzmir,Beklemede
+1593,M-946,Spor,14665,5.0,2023-01-28,İstanbul,Tamamlandı
+1594,M-580,Ev Aletleri,14294,2.0,2023-02-08,bursa,Tamamlandı
+1595,M-384,Elektronik,8355,2.0,2023-10-09,Adana,Beklemede
+1596,M-340,Elektronik,7571,4.0,2023-10-21,Bursa,Tamamlandı
+1597,M-557,Kozmetik,1994,4.0,2023-01-10,İstanbul,Beklemede
+1598,M-670,Spor,52,1.0,2023-06-05,antalya,İptal Edildi
+1599,M-787,Ev Aletleri,5634,3.0,2023-01-28,Ankara,Beklemede
+1600,M-885,Spor,9879,,2023-07-06,Adana,Beklemede
+1601,M-877,Kitap,3683,1.0,2023-06-24,İzmir,Tamamlandı
+1602,M-482,Kitap,1791,1.0,2023-03-26,Bursa,Tamamlandı
+1603,M-860,Kitap,6754,1.0,11/05/2023,Antalya,Tamamlandı
+1604,M-972,Ev Aletleri,3582,,2023-04-08,Adana,Tamamlandı
+1605,M-524,Elektronik,10425,5.0,2023-03-05,Bursa,Beklemede
+1606,M-616,Giyim,8222,1.0,2023-09-29,Adana,Tamamlandı
+1607,M-543,Spor,7962,5.0,01/04/2023,Adana,İptal Edildi
+1608,M-934,Giyim,1746,4.0,2023-06-14,Antalya,Beklemede
+1609,M-723,Kitap,12540,2.0,2023-05-21,Bursa,Tamamlandı
+1610,M-563,Giyim,2313,4.0,2023-09-20,İzmir,İptal Edildi
+1611,M-828,Kitap,9119,2.0,2023-04-13,Ankara,İptal Edildi
+1612,M-803,Kozmetik,11066,2.0,2023-04-02,Antalya,İptal Edildi
+1613,M-430,Kitap,1940,3.0,2023-10-15,Bursa,İptal Edildi
+1614,M-783,Kitap,6889,5.0,2023-05-27,Bursa,Tamamlandı
+1615,M-125,Ev Aletleri,2431,1.0,2023-01-29,Ankara,Tamamlandı
+1616,M-264,Kozmetik,11246,3.0,2023-03-16,i̇stanbul,Tamamlandı
+1617,M-654,Elektronik,5926,4.0,2023-02-22,Antalya,İptal Edildi
+1618,M-860,Kitap,9245,4.0,2023-05-02,Antalya,Tamamlandı
+1619,,Ev Aletleri,6399,4.0,2023-06-10,Antalya,Tamamlandı
+1620,M-357,Giyim,10217,4.0,2023-04-26,Adana,Tamamlandı
+1621,M-659,Kitap,9935,2.0,10/04/2023,İzmir,Beklemede
+1622,,Elektronik,3113,2.0,2023-09-21,İstanbul,Beklemede
+1623,,Spor,4379,2.0,2023-03-24,Antalya,Tamamlandı
+1624,M-577,Kitap,-2586,1.0,2023-03-20,İzmir,İptal Edildi
+1625,M-740,Spor,13864,3.0,2023-09-09,Antalya,İptal Edildi
+1626,M-902,Kitap,-5257,5.0,2023-04-23,Ankara,İptal Edildi
+1627,M-617,Giyim,6864,5.0,2023-10-02,Bursa,Tamamlandı
+1628,M-318,Kitap,5487,3.0,2023-07-04,İzmir,Tamamlandı
+1629,M-733,Spor,7830,5.0,2023-01-05,İstanbul,Tamamlandı
+1630,M-757,Spor,10226,2.0,2023-01-21,Adana,Tamamlandı
+1631,,Elektronik,6372,3.0,2023-10-04,Adana,Tamamlandı
+1632,M-629,Kozmetik,8476,5.0,2023-08-17,Bursa,Tamamlandı
+1633,M-767,Giyim,5298,5.0,2023-02-12,İstanbul,Tamamlandı
+1634,M-891,Spor,8786,1.0,2023-02-03,Ankara,Tamamlandı
+1635,M-534,Elektronik,3418,5.0,2023-08-11,Adana,Tamamlandı
+1636,M-257,Elektronik,-7573,3.0,2023-01-20,İstanbul,Tamamlandı
+1637,M-913,Kozmetik,9193,1.0,2023-10-22,Ankara,Tamamlandı
+1638,M-561,Kitap,6676,4.0,2023-06-11,İstanbul,Beklemede
+1639,,Elektronik,10559,5.0,2023-02-02,Adana,İptal Edildi
+1640,M-968,Elektronik,5910,5.0,2023-02-24,İzmir,Tamamlandı
+1641,M-388,Ev Aletleri,6299,4.0,2023-01-16,Bursa,Tamamlandı
+1642,M-239,Kitap,6456,5.0,2023-06-01,Adana,Tamamlandı
+1643,M-914,Kitap,10665,,2023-01-06,Antalya,İptal Edildi
+1644,M-142,Elektronik,9433,5.0,2023-07-21,Antalya,İptal Edildi
+1645,M-412,Giyim,12310,,2023-04-19,Bursa,İptal Edildi
+1646,M-288,Giyim,10157,3.0,2023-04-10,İstanbul,Tamamlandı
+1647,M-680,Elektronik,-13999,5.0,2023-08-25,Adana,İptal Edildi
+1648,M-787,Elektronik,4157,1.0,2023-04-12,Adana,İptal Edildi
+1649,M-438,Kozmetik,-2150,2.0,2023-02-21,İzmir,İptal Edildi
+1650,M-298,Kozmetik,8010,4.0,2023-06-18,Antalya,Tamamlandı
+1651,,Spor,9337,3.0,2023-06-11,Bursa,Tamamlandı
+1652,M-352,Giyim,11718,4.0,2023-05-22,İzmir,Tamamlandı
+1653,M-439,Ev Aletleri,7633,4.0,2023-07-03,İzmir,Beklemede
+1654,M-279,Kitap,9988,1.0,24/05/2023,Ankara,İptal Edildi
+1655,M-851,Kitap,1302,1.0,2023-01-10,Antalya,Tamamlandı
+1656,M-692,Ev Aletleri,12652,5.0,2023-04-19,İstanbul,İptal Edildi
+1657,M-652,Ev Aletleri,10763,2.0,2023-07-07,Bursa,Tamamlandı
+1658,M-703,Kitap,14093,3.0,2023-03-10,Bursa,İptal Edildi
+1659,M-506,Kozmetik,8277,1.0,2023-05-03,Antalya,Tamamlandı
+1660,M-243,Ev Aletleri,2658,2.0,2023-10-17,Antalya,Tamamlandı
+1661,M-595,Kozmetik,712,2.0,2023-09-07,Ankara,Tamamlandı
+1662,M-339,Elektronik,11004,2.0,2023-09-23,İzmir,Beklemede
+1663,M-565,Elektronik,703,3.0,2023-02-22,Adana,İptal Edildi
+1664,M-380,Kitap,4364,5.0,2023-10-06,Antalya,Tamamlandı
+1665,M-487,Kozmetik,9678,1.0,2023-09-22,İzmir,Beklemede
+1666,M-328,Spor,6699,3.0,2023-06-26,Bursa,Beklemede
+1667,M-106,Spor,-14501,2.0,2023-08-14,Ankara,Tamamlandı
+1668,M-758,Kozmetik,3515,2.0,2023-04-06,Ankara,Tamamlandı
+1669,M-936,Elektronik,10881,2.0,2023-08-01,İzmir,Tamamlandı
+1670,,Ev Aletleri,3502,5.0,2023-03-24,Adana,Beklemede
+1671,,Giyim,9446,5.0,2023-03-24,Ankara,İptal Edildi
+1672,M-686,Giyim,966,2.0,2023-05-13,Ankara,İptal Edildi
+1673,M-713,Spor,10496,1.0,2023-05-26,İstanbul,Tamamlandı
+1674,M-582,Ev Aletleri,2844,2.0,2023-07-30,Antalya,Tamamlandı
+1675,M-940,Giyim,10260,5.0,2023-05-16,Ankara,Tamamlandı
+1676,M-710,Spor,1177,,2023-07-13,Bursa,Tamamlandı
+1677,M-307,Spor,-14133,5.0,2023-08-03,Ankara,İptal Edildi
+1678,M-587,Spor,-9877,1.0,2023-09-30,Antalya,Tamamlandı
+1679,M-775,Giyim,14828,5.0,2023-10-04,İstanbul,Beklemede
+1680,M-479,Elektronik,11480,5.0,2023-08-08,Ankara,Beklemede
+1681,M-490,Kozmetik,9700,5.0,2023-02-20,Bursa,Tamamlandı
+1682,M-884,Giyim,14960,1.0,2023-05-26,Antalya,İptal Edildi
+1683,M-293,Elektronik,11668,1.0,2023-10-23,Antalya,Tamamlandı
+1684,M-484,Kitap,3415,3.0,29/07/2023,İzmir,Tamamlandı
+1685,M-767,Spor,4205,3.0,2023-10-02,Bursa,İptal Edildi
+1686,M-382,Kitap,6561,2.0,2023-07-31,Antalya,İptal Edildi
+1687,M-479,Spor,9141,4.0,2023-05-10,İzmir,İptal Edildi
+1688,M-822,Ev Aletleri,12105,2.0,2023-03-02,Adana,Tamamlandı
+1689,M-816,Giyim,1692,2.0,2023-09-18,Bursa,Tamamlandı
+1690,M-728,Kitap,11265,1.0,2023-03-24,Bursa,Tamamlandı
+1691,M-943,Giyim,7777,5.0,2023-08-11,İstanbul,Tamamlandı
+1692,M-479,Elektronik,10028,1.0,2023-07-16,Bursa,İptal Edildi
+1693,M-393,Kitap,9838,1.0,2023-03-31,Adana,Beklemede
+1694,M-306,Kitap,13221,5.0,2023-05-27,Ankara,Tamamlandı
+1695,M-622,Spor,11493,2.0,2023-03-28,Adana,Tamamlandı
+1696,M-770,Elektronik,2629,1.0,2023-05-22,Bursa,Tamamlandı
+1697,M-515,Spor,3331,5.0,2023-01-08,Adana,Tamamlandı
+1698,M-662,Kozmetik,11947,5.0,2023-10-26,İzmir,Tamamlandı
+1699,,Giyim,9984,2.0,2023-08-21,Bursa,İptal Edildi
+1700,M-279,Ev Aletleri,8344,1.0,2023-10-14,İstanbul,İptal Edildi
+1701,M-219,Spor,4272,5.0,2023-10-22,İzmir,Beklemede
+1702,M-676,Ev Aletleri,12665,2.0,2023-06-23,Bursa,Beklemede
+1703,M-982,Elektronik,7946,1.0,2023-05-13,İstanbul,Beklemede
+1704,M-325,Kitap,11538,2.0,2023-06-11,Bursa,Tamamlandı
+1705,M-109,Kitap,13684,3.0,2023-05-08,İzmir,Tamamlandı
+1706,M-866,Kozmetik,1295,5.0,2023-04-02,Bursa,Tamamlandı
+1707,M-687,Kozmetik,3044,2.0,2023-09-13,adana,Tamamlandı
+1708,M-347,Kozmetik,3437,2.0,2023-04-14,Ankara,İptal Edildi
+1709,M-897,Elektronik,2014,1.0,2023-09-10,Antalya,Tamamlandı
+1710,M-654,Elektronik,13943,4.0,2023-07-10,Antalya,Tamamlandı
+1711,M-688,Kozmetik,8091,2.0,2023-09-19,i̇zmir,Beklemede
+1712,,Giyim,937,5.0,2023-08-05,Bursa,İptal Edildi
+1713,M-455,Ev Aletleri,14146,2.0,2023-08-23,İstanbul,İptal Edildi
+1714,M-805,Elektronik,243,2.0,2023-07-14,Antalya,Tamamlandı
+1715,M-727,Kozmetik,3116,5.0,2023-05-15,Ankara,Tamamlandı
+1716,M-727,Kozmetik,6045,2.0,2023-09-13,Bursa,Tamamlandı
+1717,M-870,Kozmetik,6031,4.0,2023-05-24,Bursa,Tamamlandı
+1718,M-689,Kitap,3794,1.0,2023-05-19,Ankara,İptal Edildi
+1719,M-490,Giyim,2439,2.0,2023-08-31,İstanbul,Tamamlandı
+1720,M-237,Kitap,8520,5.0,2023-06-11,Bursa,Tamamlandı
+1721,M-979,Spor,-831,4.0,2023-02-20,Adana,Tamamlandı
+1722,M-933,Kozmetik,7857,1.0,2023-08-19,Adana,Tamamlandı
+1723,M-468,Spor,9183,,2023-06-26,İstanbul,Beklemede
+1724,M-988,Kitap,9971,2.0,23/10/2023,Antalya,İptal Edildi
+1725,M-899,Kozmetik,5868,3.0,2023-09-19,Bursa,Beklemede
+1726,M-490,Spor,4744,4.0,2023-03-16,Ankara,Tamamlandı
+1727,M-727,Spor,6681,1.0,2023-02-10,ankara,Tamamlandı
+1728,M-424,Kitap,4823,3.0,2023-07-22,İzmir,Beklemede
+1729,M-471,Kitap,9666,5.0,19/08/2023,Bursa,Tamamlandı
+1730,M-123,Giyim,11973,2.0,2023-05-09,adana,Tamamlandı
+1731,,Elektronik,1615,1.0,2023-08-31,Antalya,Tamamlandı
+1732,M-506,Spor,12583,1.0,23/02/2023,İzmir,İptal Edildi
+1733,M-770,Ev Aletleri,5118,2.0,2023-05-07,Adana,Tamamlandı
+1734,M-229,Giyim,8680,2.0,2023-01-15,İstanbul,Tamamlandı
+1735,M-433,Ev Aletleri,7704,,2023-05-20,Antalya,Beklemede
+1736,M-814,Spor,2950,5.0,2023-08-22,Adana,İptal Edildi
+1737,M-755,Kitap,8795,3.0,2023-06-27,bursa,İptal Edildi
+1738,M-191,Ev Aletleri,5094,3.0,2023-07-31,İzmir,Tamamlandı
+1739,M-100,Spor,13409,2.0,2023-06-26,İzmir,Beklemede
+1740,M-804,Ev Aletleri,12427,4.0,2023-06-03,İstanbul,Beklemede
+1741,M-711,Giyim,13104,1.0,2023-10-08,İzmir,Tamamlandı
+1742,M-674,Ev Aletleri,6517,2.0,2023-03-25,Adana,Beklemede
+1743,M-325,Kozmetik,1347,4.0,2023-05-03,Antalya,İptal Edildi
+1744,M-801,Kozmetik,4714,5.0,2023-05-18,Bursa,Tamamlandı
+1745,M-286,Giyim,4794,1.0,2023-08-22,Antalya,Beklemede
+1746,M-737,Ev Aletleri,3126,3.0,2023-01-10,Ankara,Tamamlandı
+1747,M-122,Giyim,1725,3.0,2023-05-18,Ankara,Beklemede
+1748,M-338,Elektronik,2518,1.0,2023-09-10,Ankara,Tamamlandı
+1749,M-904,Ev Aletleri,6134,4.0,2023-01-17,İzmir,Tamamlandı
+1750,M-249,Elektronik,4416,4.0,06/02/2023,Antalya,Beklemede
+1751,M-961,Kozmetik,13439,4.0,2023-01-07,İstanbul,Tamamlandı
+1752,M-553,Giyim,12135,1.0,2023-04-12,Bursa,Tamamlandı
+1753,M-313,Ev Aletleri,6425,3.0,2023-06-15,Ankara,Tamamlandı
+1754,M-662,Spor,2051,3.0,04/09/2023,Adana,Tamamlandı
+1755,M-153,Kitap,3618,1.0,2023-05-01,Adana,Beklemede
+1756,M-271,Kozmetik,9629,1.0,2023-07-22,Ankara,Tamamlandı
+1757,M-695,Kitap,7836,5.0,2023-03-21,i̇zmir,Tamamlandı
+1758,M-611,Elektronik,-11288,5.0,2023-06-23,Adana,Tamamlandı
+1759,M-760,Giyim,11540,5.0,2023-02-24,ankara,Beklemede
+1760,,Kitap,12447,3.0,2023-08-13,Adana,Tamamlandı
+1761,M-486,Kozmetik,11918,2.0,2023-05-09,İstanbul,Beklemede
+1762,M-672,Kozmetik,8942,4.0,2023-04-08,Antalya,Tamamlandı
+1763,M-431,Kitap,7724,3.0,2023-10-11,Ankara,Tamamlandı
+1764,,Kozmetik,13475,3.0,2023-10-05,İzmir,Beklemede
+1765,M-753,Spor,6260,2.0,2023-01-10,Antalya,Tamamlandı
+1766,M-344,Kozmetik,11862,1.0,2023-10-03,Bursa,Tamamlandı
+1767,M-609,Spor,2575,5.0,2023-05-25,İzmir,Beklemede
+1768,M-213,Elektronik,8622,1.0,2023-01-23,Ankara,Tamamlandı
+1769,M-306,Elektronik,8002,2.0,2023-02-20,İstanbul,İptal Edildi
+1770,M-497,Kitap,8076,5.0,2023-05-12,i̇stanbul,Tamamlandı
+1771,M-835,Elektronik,264,2.0,2023-09-09,İstanbul,Beklemede
+1772,M-162,Kozmetik,9192,4.0,2023-07-08,Adana,Tamamlandı
+1773,M-372,Spor,716,1.0,2023-06-05,İstanbul,Tamamlandı
+1774,M-199,Elektronik,11931,2.0,30/09/2023,Bursa,Tamamlandı
+1775,M-772,Giyim,9389,2.0,2023-10-13,Adana,İptal Edildi
+1776,M-208,Kitap,9496,3.0,2023-08-23,Adana,Beklemede
+1777,M-270,Giyim,9060,4.0,2023-09-16,İzmir,Tamamlandı
+1778,M-714,Ev Aletleri,5822,3.0,2023-10-09,İzmir,Tamamlandı
+1779,M-748,Ev Aletleri,13585,3.0,2023-05-04,antalya,İptal Edildi
+1780,M-884,Spor,12249,3.0,2023-07-04,Bursa,Beklemede
+1781,M-100,Kitap,617,3.0,2023-01-09,Antalya,Tamamlandı
+1782,M-409,Elektronik,4970,2.0,2023-04-20,İzmir,Tamamlandı
+1783,M-806,Kozmetik,9121,5.0,12/10/2023,Antalya,İptal Edildi
+1784,M-138,Ev Aletleri,5877,2.0,2023-03-12,İzmir,Tamamlandı
+1785,M-355,Giyim,4248,3.0,2023-02-17,Antalya,Beklemede
+1786,M-322,Kitap,1314,3.0,2023-09-05,Ankara,Beklemede
+1787,M-806,Kitap,9490,1.0,2023-06-03,İstanbul,İptal Edildi
+1788,M-898,Elektronik,12680,3.0,2023-06-28,Bursa,Beklemede
+1789,M-223,Giyim,-12299,5.0,2023-01-06,Adana,Beklemede
+1790,M-636,Elektronik,5281,5.0,2023-10-17,Ankara,Tamamlandı
+1791,M-326,Giyim,877,4.0,2023-08-17,Antalya,İptal Edildi
+1792,M-327,Ev Aletleri,-4797,4.0,2023-03-17,Ankara,Tamamlandı
+1793,M-685,Kitap,857,5.0,2023-07-24,İzmir,Tamamlandı
+1794,M-544,Kitap,2186,2.0,2023-09-04,Antalya,Tamamlandı
+1795,M-767,Spor,-3262,5.0,2023-09-26,Ankara,Tamamlandı
+1796,M-895,Ev Aletleri,5348,5.0,2023-02-15,İstanbul,Beklemede
+1797,M-456,Giyim,5304,3.0,2023-01-13,İzmir,Tamamlandı
+1798,M-731,Ev Aletleri,10260,2.0,14/08/2023,İstanbul,Tamamlandı
+1799,M-482,Giyim,12464,1.0,2023-02-27,adana,Tamamlandı
+1800,M-735,Giyim,14283,3.0,2023-01-08,İzmir,Tamamlandı
+1801,M-582,Elektronik,5487,2.0,2023-10-03,Ankara,Tamamlandı
+1802,M-868,Kozmetik,9041,4.0,2023-03-14,Adana,Tamamlandı
+1803,M-779,Spor,762,3.0,2023-03-29,i̇stanbul,Tamamlandı
+1804,M-813,Spor,-4494,1.0,2023-08-27,Adana,Tamamlandı
+1805,M-776,Kozmetik,10912,3.0,2023-02-25,İstanbul,Tamamlandı
+1806,M-764,Ev Aletleri,3837,4.0,2023-09-18,Adana,Tamamlandı
+1807,M-596,Spor,8759,1.0,2023-04-06,Ankara,İptal Edildi
+1808,M-674,Kitap,402,1.0,2023-05-07,Antalya,Tamamlandı
+1809,M-502,Kitap,2622,1.0,2023-06-27,Adana,Tamamlandı
+1810,M-409,Giyim,8262,3.0,2023-02-01,Adana,Tamamlandı
+1811,M-934,Elektronik,9142,3.0,2023-04-26,Ankara,Tamamlandı
+1812,M-772,Giyim,1488,4.0,2023-09-24,Adana,İptal Edildi
+1813,M-802,Giyim,6887,2.0,2023-10-21,Ankara,Beklemede
+1814,M-719,Kozmetik,7409,5.0,2023-03-09,Ankara,Tamamlandı
+1815,M-800,Giyim,14182,2.0,2023-06-08,Adana,İptal Edildi
+1816,M-540,Giyim,10801,5.0,2023-03-22,İzmir,Tamamlandı
+1817,M-836,Elektronik,3066,3.0,2023-03-16,Adana,Tamamlandı
+1818,M-523,Ev Aletleri,5020,,2023-05-21,Ankara,Tamamlandı
+1819,M-289,Elektronik,12541,5.0,2023-05-17,Antalya,İptal Edildi
+1820,M-710,Giyim,3833,,2023-07-03,İstanbul,Beklemede
+1821,M-966,Spor,7730,3.0,2023-04-05,Bursa,Beklemede
+1822,M-267,Giyim,3757,1.0,2023-07-29,İstanbul,Tamamlandı
+1823,M-327,Kitap,11049,2.0,2023-04-15,İstanbul,Tamamlandı
+1824,M-549,Spor,8077,3.0,2023-08-23,Ankara,Beklemede
+1825,M-142,Spor,12097,4.0,2023-06-10,Bursa,İptal Edildi
+1826,M-685,Spor,8834,5.0,2023-01-20,Antalya,Tamamlandı
+1827,M-946,Elektronik,14431,2.0,2023-09-23,Antalya,Beklemede
+1828,M-140,Spor,6397,5.0,2023-01-26,Ankara,Tamamlandı
+1829,M-411,Kozmetik,7608,2.0,2023-08-05,İzmir,İptal Edildi
+1830,M-806,Spor,-14855,2.0,2023-08-26,Adana,Beklemede
+1831,M-612,Elektronik,2995,5.0,2023-10-07,Ankara,Beklemede
+1832,M-561,Elektronik,2980,4.0,2023-04-14,Bursa,Tamamlandı
+1833,M-808,Kitap,14912,2.0,2023-03-05,İstanbul,Tamamlandı
+1834,M-749,Kozmetik,1447,5.0,2023-07-16,Adana,İptal Edildi
+1835,M-263,Ev Aletleri,9066,4.0,2023-01-23,Ankara,Tamamlandı
+1836,M-775,Giyim,2706,2.0,2023-04-02,Adana,Tamamlandı
+1837,M-416,Kitap,12643,,2023-05-28,Adana,Tamamlandı
+1838,M-234,Giyim,107,5.0,2023-05-10,İstanbul,Beklemede
+1839,M-610,Spor,13279,1.0,2023-09-10,Ankara,Tamamlandı
+1840,,Ev Aletleri,6769,4.0,2023-02-10,Antalya,İptal Edildi
+1841,M-660,Kozmetik,10204,,2023-04-17,İstanbul,Tamamlandı
+1842,M-768,Kozmetik,651,2.0,2023-01-17,Adana,İptal Edildi
+1843,M-405,Kozmetik,1486,1.0,25/02/2023,Bursa,Tamamlandı
+1844,M-391,Spor,10878,5.0,2023-10-21,Antalya,Tamamlandı
+1845,M-867,Spor,5951,1.0,2023-02-17,İzmir,Tamamlandı
+1846,M-488,Elektronik,12476,4.0,2023-10-09,İstanbul,Tamamlandı
+1847,M-224,Kitap,14130,3.0,2023-06-18,Antalya,Beklemede
+1848,M-812,Giyim,10077,1.0,2023-02-25,Antalya,İptal Edildi
+1849,M-595,Kitap,11332,5.0,2023-05-28,Bursa,İptal Edildi
+1850,M-365,Spor,9473,5.0,2023-07-01,Ankara,İptal Edildi
+1851,M-632,Kitap,10402,4.0,2023-09-10,ankara,İptal Edildi
+1852,M-397,Giyim,75,1.0,2023-01-13,Bursa,Tamamlandı
+1853,M-312,Spor,6843,4.0,2023-01-24,İzmir,Tamamlandı
+1854,M-752,Giyim,235,2.0,2023-05-25,İzmir,Tamamlandı
+1855,M-618,Spor,5357,1.0,2023-02-28,Adana,Tamamlandı
+1856,M-841,Spor,10142,1.0,2023-03-31,Ankara,Tamamlandı
+1857,M-788,Ev Aletleri,7824,1.0,2023-03-11,Bursa,Tamamlandı
+1858,M-985,Spor,14728,3.0,2023-08-25,Bursa,Tamamlandı
+1859,M-406,Spor,11927,3.0,2023-10-12,antalya,Tamamlandı
+1860,M-801,Kozmetik,13149,3.0,2023-02-03,Ankara,Tamamlandı
+1861,M-447,Ev Aletleri,10314,5.0,2023-03-26,Antalya,İptal Edildi
+1862,M-709,Elektronik,14215,3.0,2023-06-11,Adana,Tamamlandı
+1863,M-188,Ev Aletleri,14419,2.0,2023-07-10,bursa,Tamamlandı
+1864,M-409,Giyim,1888,3.0,2023-01-20,Ankara,Tamamlandı
+1865,M-125,Ev Aletleri,14876,5.0,2023-03-20,Ankara,Tamamlandı
+1866,M-850,Spor,5134,3.0,2023-03-15,İstanbul,İptal Edildi
+1867,M-235,Giyim,11921,,2023-08-24,Bursa,İptal Edildi
+1868,M-418,Elektronik,11306,5.0,2023-02-14,İzmir,Beklemede
+1869,M-205,Spor,12603,3.0,2023-01-12,Antalya,Tamamlandı
+1870,M-314,Kozmetik,3335,2.0,2023-05-27,İzmir,İptal Edildi
+1871,M-551,Kitap,1977,,2023-03-18,Ankara,Tamamlandı
+1872,M-737,Spor,8472,1.0,2023-04-16,Antalya,Tamamlandı
+1873,M-377,Giyim,-11590,3.0,2023-10-21,Ankara,Tamamlandı
+1874,M-727,Kozmetik,8906,4.0,2023-01-26,Ankara,Tamamlandı
+1875,M-791,Elektronik,1785,4.0,2023-01-28,İstanbul,Beklemede
+1876,M-821,Spor,14652,5.0,2023-08-17,Antalya,Tamamlandı
+1877,M-937,Giyim,11730,,2023-02-10,Bursa,İptal Edildi
+1878,M-932,Kitap,7722,1.0,2023-08-22,İzmir,Beklemede
+1879,M-329,Giyim,14158,5.0,13/05/2023,İzmir,Beklemede
+1880,M-781,Kozmetik,-12973,3.0,2023-08-21,Bursa,Tamamlandı
+1881,M-215,Kozmetik,7892,4.0,2023-03-29,İzmir,Tamamlandı
+1882,M-230,Spor,1736,4.0,2023-02-24,İzmir,İptal Edildi
+1883,M-911,Kozmetik,8778,4.0,2023-07-25,antalya,Beklemede
+1884,M-349,Spor,2655,4.0,2023-07-16,i̇stanbul,Tamamlandı
+1885,M-810,Spor,7113,4.0,2023-10-18,İzmir,İptal Edildi
+1886,M-277,Kitap,11020,1.0,2023-10-21,Bursa,Tamamlandı
+1887,M-574,Kozmetik,9144,1.0,2023-08-16,Ankara,Tamamlandı
+1888,M-171,Spor,1831,5.0,2023-07-14,İzmir,Beklemede
+1889,M-162,Elektronik,3615,2.0,2023-10-25,Adana,Tamamlandı
+1890,M-776,Giyim,7471,5.0,2023-05-30,Bursa,İptal Edildi
+1891,M-300,Giyim,11215,3.0,2023-06-03,Antalya,Tamamlandı
+1892,M-545,Kitap,5690,1.0,2023-10-26,İstanbul,İptal Edildi
+1893,M-513,Giyim,14017,3.0,2023-02-01,İzmir,İptal Edildi
+1894,M-100,Kitap,9225,3.0,2023-02-26,i̇zmir,Tamamlandı
+1895,M-819,Spor,6509,3.0,2023-07-15,Bursa,Beklemede
+1896,M-316,Kitap,2891,4.0,2023-03-13,Ankara,İptal Edildi
+1897,M-468,Ev Aletleri,-2577,3.0,2023-03-06,Ankara,Tamamlandı
+1898,M-116,Giyim,11868,,2023-08-12,Ankara,Tamamlandı
+1899,M-925,Ev Aletleri,14142,4.0,2023-08-06,Antalya,Tamamlandı
+1900,M-534,Spor,13486,4.0,16/07/2023,İzmir,Tamamlandı
+1901,M-719,Elektronik,9518,4.0,2023-05-02,Adana,İptal Edildi
+1902,M-659,Spor,6062,1.0,2023-01-20,Antalya,Beklemede
+1903,M-215,Spor,7939,1.0,2023-03-14,Adana,İptal Edildi
+1904,M-868,Kozmetik,-7667,5.0,2023-02-10,Antalya,İptal Edildi
+1905,M-583,Kitap,12201,1.0,2023-10-04,Antalya,Tamamlandı
+1906,M-451,Spor,12805,1.0,2023-08-29,Bursa,İptal Edildi
+1907,M-687,Kitap,5481,4.0,30/06/2023,İzmir,Tamamlandı
+1908,M-811,Spor,12328,3.0,2023-10-16,İzmir,Tamamlandı
+1909,,Giyim,9435,1.0,2023-05-30,Adana,İptal Edildi
+1910,M-596,Elektronik,2127,,2023-02-09,İzmir,Tamamlandı
+1911,M-387,Kozmetik,14105,3.0,2023-01-08,Adana,Tamamlandı
+1912,M-705,Kitap,2526,4.0,2023-07-09,Ankara,Tamamlandı
+1913,M-341,Ev Aletleri,3012,5.0,2023-01-17,İzmir,Tamamlandı
+1914,M-709,Giyim,13773,4.0,2023-07-31,Bursa,Tamamlandı
+1915,M-843,Kitap,-2790,2.0,2023-10-23,Adana,Tamamlandı
+1916,M-370,Elektronik,910,2.0,2023-08-26,Bursa,Beklemede
+1917,M-864,Spor,3878,,2023-07-19,Bursa,Tamamlandı
+1918,M-991,Ev Aletleri,244,3.0,2023-08-18,Bursa,Tamamlandı
+1919,M-799,Elektronik,1645,5.0,2023-07-01,Bursa,İptal Edildi
+1920,M-978,Kozmetik,5538,3.0,2023-05-17,İstanbul,Tamamlandı
+1921,M-500,Ev Aletleri,12717,2.0,2023-04-10,Antalya,Tamamlandı
+1922,M-284,Kozmetik,9022,1.0,2023-01-05,İstanbul,Tamamlandı
+1923,M-637,Elektronik,11281,4.0,2023-06-29,Ankara,Tamamlandı
+1924,M-134,Elektronik,10198,1.0,2023-01-30,Antalya,Tamamlandı
+1925,M-753,Elektronik,11651,1.0,2023-02-14,Antalya,Tamamlandı
+1926,M-882,Kitap,9324,2.0,2023-02-26,Adana,Tamamlandı
+1927,M-578,Kitap,1290,4.0,2023-05-22,Bursa,Tamamlandı
+1928,M-899,Elektronik,4593,1.0,2023-07-15,Bursa,Tamamlandı
+1929,M-364,Kozmetik,2965,4.0,2023-02-05,Bursa,Tamamlandı
+1930,M-282,Kitap,8111,1.0,2023-03-15,antalya,Beklemede
+1931,M-758,Elektronik,-7284,3.0,2023-02-22,İstanbul,Tamamlandı
+1932,M-845,Kozmetik,12784,4.0,2023-01-10,Bursa,Tamamlandı
+1933,M-100,Elektronik,10938,4.0,2023-05-17,Ankara,Tamamlandı
+1934,M-688,Elektronik,8494,4.0,2023-09-02,Bursa,Beklemede
+1935,M-899,Elektronik,8899,,2023-01-02,Bursa,Beklemede
+1936,M-648,Kozmetik,5513,3.0,2023-07-25,İstanbul,Tamamlandı
+1937,M-973,Kozmetik,1368,4.0,29/05/2023,Adana,Tamamlandı
+1938,M-140,Ev Aletleri,10875,2.0,2023-06-03,Adana,Beklemede
+1939,M-745,Kitap,5936,4.0,2023-02-13,Adana,Beklemede
+1940,M-243,Elektronik,-3213,1.0,2023-05-03,Bursa,Beklemede
+1941,,Kitap,5091,4.0,2023-10-01,Bursa,Tamamlandı
+1942,M-157,Kozmetik,12956,1.0,2023-07-27,İstanbul,Tamamlandı
+1943,M-783,Spor,7559,5.0,2023-03-18,adana,İptal Edildi
+1944,M-173,Elektronik,12099,2.0,2023-09-08,Adana,Tamamlandı
+1945,M-733,Elektronik,4026,2.0,2023-01-08,Ankara,Tamamlandı
+1946,M-940,Elektronik,7524,5.0,2023-03-29,Antalya,Tamamlandı
+1947,M-208,Elektronik,8195,5.0,2023-04-23,İstanbul,Tamamlandı
+1948,M-930,Kitap,11164,4.0,2023-06-16,İstanbul,İptal Edildi
+1949,M-429,Giyim,12571,,2023-03-30,İzmir,Tamamlandı
+1950,M-244,Ev Aletleri,2803,3.0,2023-10-11,ankara,Beklemede
+1951,M-695,Elektronik,2235,1.0,2023-07-12,Ankara,Tamamlandı
+1952,M-182,Elektronik,168,2.0,2023-02-15,Adana,İptal Edildi
+1953,M-526,Kitap,13278,4.0,2023-03-06,Ankara,Tamamlandı
+1954,M-635,Ev Aletleri,6800,2.0,2023-03-31,Antalya,Tamamlandı
+1955,,Ev Aletleri,10077,1.0,2023-06-04,İzmir,Beklemede
+1956,M-341,Giyim,1975,5.0,2023-02-18,Antalya,Tamamlandı
+1957,M-652,Spor,3642,4.0,17/04/2023,İzmir,Tamamlandı
+1958,M-915,Giyim,11277,4.0,2023-09-12,Ankara,Tamamlandı
+1959,M-144,Elektronik,10615,3.0,2023-05-26,Ankara,Beklemede
+1960,M-731,Ev Aletleri,759,1.0,27/01/2023,Antalya,Tamamlandı
+1961,M-129,Ev Aletleri,8486,1.0,2023-02-06,Ankara,Beklemede
+1962,M-433,Ev Aletleri,3306,3.0,2023-04-28,i̇stanbul,Tamamlandı
+1963,M-342,Kitap,6809,2.0,2023-07-12,Ankara,Tamamlandı
+1964,M-596,Elektronik,14639,4.0,2023-03-16,Ankara,İptal Edildi
+1965,M-496,Kozmetik,2284,4.0,2023-04-10,Adana,Tamamlandı
+1966,M-307,Kozmetik,2134,,2023-10-19,İstanbul,Tamamlandı
+1967,M-972,Ev Aletleri,7563,4.0,2023-03-29,İzmir,Tamamlandı
+1968,M-718,Giyim,12985,5.0,2023-03-29,Antalya,İptal Edildi
+1969,M-188,Ev Aletleri,14090,5.0,2023-09-08,Ankara,İptal Edildi
+1970,M-573,Kozmetik,287,4.0,2023-05-07,Ankara,Tamamlandı
+1971,,Spor,2490,5.0,2023-01-03,Bursa,Tamamlandı
+1972,M-581,Kitap,12642,5.0,2023-01-18,Bursa,İptal Edildi
+1973,M-929,Kitap,-13506,1.0,2023-08-20,Bursa,Tamamlandı
+1974,M-871,Elektronik,11406,4.0,2023-04-22,Ankara,Tamamlandı
+1975,M-763,Elektronik,310,4.0,2023-06-06,Ankara,Beklemede
+1976,M-865,Spor,449,4.0,26/08/2023,Ankara,Beklemede
+1977,M-992,Kozmetik,10319,4.0,2023-01-01,Adana,Tamamlandı
+1978,M-807,Kozmetik,8748,1.0,2023-06-01,Bursa,Tamamlandı
+1979,M-727,Spor,9474,2.0,2023-02-11,Antalya,Tamamlandı
+1980,M-156,Spor,14959,3.0,2023-01-27,İstanbul,Beklemede
+1981,M-733,Elektronik,6039,3.0,2023-03-31,Adana,İptal Edildi
+1982,M-674,Kitap,12724,2.0,2023-03-12,İzmir,Tamamlandı
+1983,M-764,Ev Aletleri,12131,5.0,2023-04-18,Adana,Tamamlandı
+1984,M-373,Spor,11194,4.0,2023-05-22,İstanbul,Tamamlandı
+1985,M-563,Ev Aletleri,8265,5.0,2023-03-04,Bursa,İptal Edildi
+1986,M-645,Kozmetik,7455,5.0,08/07/2023,Adana,Tamamlandı
+1987,M-568,Elektronik,1363,,2023-04-02,İzmir,Tamamlandı
+1988,M-382,Elektronik,11470,2.0,2023-09-12,Ankara,Tamamlandı
+1989,M-742,Elektronik,4853,4.0,2023-10-05,Ankara,Beklemede
+1990,,Kitap,10612,1.0,2023-05-30,Ankara,Tamamlandı
+1991,M-921,Giyim,13729,5.0,2023-06-21,Bursa,İptal Edildi
+1992,M-761,Kozmetik,8015,5.0,2023-09-29,Antalya,Beklemede
+1993,M-680,Giyim,14767,3.0,2023-03-29,İzmir,Tamamlandı
+1994,M-395,Elektronik,2480,3.0,2023-05-26,Bursa,Tamamlandı
+1995,M-264,Kitap,8820,3.0,04/04/2023,Ankara,Tamamlandı
+1996,M-219,Elektronik,5237,5.0,2023-03-06,Bursa,Tamamlandı
+1997,M-310,Spor,11635,1.0,2023-06-12,İzmir,Tamamlandı
+1998,M-652,Giyim,8793,3.0,2023-03-04,İstanbul,Beklemede
+1999,M-886,Giyim,7554,3.0,2023-03-21,İstanbul,İptal Edildi
+2000,M-439,Kitap,11608,3.0,2023-08-31,İzmir,İptal Edildi
