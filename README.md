@@ -1,0 +1,1 @@
+# veri_temizleme_projesi
